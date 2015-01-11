@@ -1,0 +1,377 @@
+HTML {
+	text-align: center;
+	background-attachment: fixed;
+	background-color: #EDEDED;
+	background-image: url(images/main_bg.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+BODY {
+	FONT-SIZE: 12px;
+	COLOR: #000000;
+	LINE-HEIGHT: 22px;
+	FONT-FAMILY: "宋体";
+	margin-top:0px;
+}
+ul{
+	margin-right: 12px;
+	margin-left: 12px;
+	margin-bottom: 0px;
+}
+li{
+	list-style-image:url(/images/main_tb.jpg);
+	border-bottom: #a0a0a0 1px dashed;
+	margin-top: 10px;
+}
+A:link {
+	FONT-SIZE: 12px;
+	COLOR: #663300;
+	LINE-HEIGHT: 22px;
+	TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 12px;
+	COLOR: #663300;
+	LINE-HEIGHT: 22px;
+	FONT-FAMILY: "宋体";
+	TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 12px;
+	COLOR: #FF6600;
+	LINE-HEIGHT: 22px;
+	TEXT-DECORATION: none
+}
+A.a1:link {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 22px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none;
+	vertical-align:bottom;margin-bottom:0px;padding-bottom:0px;margin-top:20px;
+}
+A.a1:visited {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 22px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none;
+	vertical-align:bottom;margin-bottom:0px;padding-bottom:0px;margin-top:20px;
+}
+A.a1:hover {
+	FONT-SIZE: 12px; COLOR: #663300; LINE-HEIGHT: 22px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none;
+	vertical-align:bottom;margin-bottom:0px;padding-bottom:0px;margin-top:20px;
+}
+A.a2:link {
+	FONT-SIZE: 12px; COLOR: #820000; LINE-HEIGHT: 22px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A.a2:visited {
+	FONT-SIZE: 12px; COLOR: #820000; LINE-HEIGHT: 22px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A.a2:hover {
+	FONT-SIZE: 12px; COLOR: #663300; LINE-HEIGHT: 22px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.font {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 22px; FONT-FAMILY: "宋体"
+}
+.font1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #820000; LINE-HEIGHT: 20px; FONT-FAMILY: "宋体"
+}
+.font5 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #820000; LINE-HEIGHT: 20px; FONT-FAMILY: "宋体"
+}
+.font00 {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #820000; LINE-HEIGHT: 20px; FONT-FAMILY: "宋体"
+}
+.font03 {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体";
+	vertical-align:bottom;margin-bottom:0px;padding-bottom:0px;margin-top:12px;
+}
+.font0 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff; LINE-HEIGHT: 20px; FONT-FAMILY: "宋体"
+}
+.font2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #ff6600; LINE-HEIGHT: 22px; FONT-FAMILY: "宋体"
+}
+
+.font3 {
+	COLOR: #666666; LINE-HEIGHT: 22px;
+}
+.line ul{
+	margin-right: 12px;
+	margin-left: 12px;
+	margin-bottom: 0px;
+}
+.line li{
+	list-style-image:url(images/main_07.jpg);
+	margin-top: 0px;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #999999;
+	vertical-align: top;
+}
+.line td{
+	BORDER-BOTTOM: #a0a0a0 1px dashed;
+}
+.line1 ul{
+	margin-right: 12px;
+	margin-left: 12px;
+	margin-bottom: 0px;
+}
+.line1 li{
+	list-style-image:url(images/main_tb.jpg);
+	margin-top: 0px;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #999999;
+	vertical-align: top;
+}
+.line1 td{
+	BORDER-BOTTOM: #a0a0a0 1px dashed;
+}
+.line-1 ul{
+     margin-top:0px;
+	margin-right: 12px;
+	margin-left: 12px;
+	margin-bottom: 0px;
+}
+.line-1 a:link{
+	color:#666666;
+	}
+.line-1 a:hover{
+	color:#FF6600;
+	}
+.line-1 li{
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #E6E6E6;
+	text-align: left;
+	list-style-image: url(images/main_tb.jpg);
+	text-indent: 10px;
+	list-style-position: inside;
+	letter-spacing: 0.5em;
+	margin-top: 6px;
+	}	
+.more{
+	font-weight: bold;
+	margin-top:0px;
+	margin-right: 10px;
+	text-align: right;
+}
+.nr{
+	height: 96%;
+	width: 96%;
+}
+/*文字绕拍方式*/
+div.image-left {
+float: left;
+margin: 6px 6px 0 0;
+}
+
+div.image-left img {
+border: 1px solid #ccc;
+padding: 4px;
+}
+
+div.image-left p {
+	color: #666;
+	font-size: 10px;
+	margin: 3px 0 0;
+	text-align:center;
+}
+.sj{
+	text-align:left;
+	text-indent:20px;
+	font-size:12px;
+	line-height: 24px;
+	border-bottom: #a0a0a0 1px dashed;
+}
+/*MAIN 部分内容*/
+.nr{
+}
+.nr td{
+	line-height: 40px;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #999999;
+}
+
+#Layer0 {
+	Z-INDEX: 1; VISIBILITY: hidden; WIDTH: 98; POSITION: absolute
+}
+#Layer1 {
+	DISPLAY: inline; Z-INDEX: 1; VISIBILITY: hidden; MARGIN: 35px 0px 0px -105px;  POSITION: absolute
+}
+#Layer2 {
+	DISPLAY: inline; Z-INDEX: 1; VISIBILITY: hidden; MARGIN: 35px 0px 0px -105px;  POSITION: absolute
+}
+#Layer3 {
+	DISPLAY: inline; Z-INDEX: 1; VISIBILITY: hidden; MARGIN: 35px 0px 0px -105px;  POSITION: absolute
+}
+#Layer4 {
+	DISPLAY: inline; Z-INDEX: 1; VISIBILITY: hidden; MARGIN: 35px 0px 0px -105px;  POSITION: absolute
+}
+#Layer5 {
+	DISPLAY: inline; Z-INDEX: 1; VISIBILITY: hidden; MARGIN: 35px 0px 0px -105px;  POSITION: absolute
+}
+#Layer6 {
+	DISPLAY: inline; Z-INDEX: 1; VISIBILITY: hidden; MARGIN: 35px 0px 0px -105px;  POSITION: absolute
+}
+#Layer7 {
+	DISPLAY: inline; Z-INDEX: 1; VISIBILITY: hidden; MARGIN: 35px 0px 0px -105px;  POSITION: absolute
+}
+#Layer8 {
+	DISPLAY: inline; Z-INDEX: 1; VISIBILITY: hidden; MARGIN: 35px 0px 0px -105px;  POSITION: absolute
+}
+#Layer9 {
+	DISPLAY: inline; Z-INDEX: 1; VISIBILITY: hidden; MARGIN: 35px 0px 0px -105px;  POSITION: absolute
+}
+#Layer10 {
+	DISPLAY: inline; Z-INDEX: 1; VISIBILITY: hidden; MARGIN: 35px 0px 0px -105px;  POSITION: absolute
+}
+
+
+.showListTitle1
+{
+	background: #FFFFFF url(images/showListTitle1.JPG) no-repeat left bottom;
+	width:22px;
+	height:24px
+}
+
+.showListTitle2
+{
+	background: #FFFFFF url(images/showListTitle2.JPG) repeat-x left bottom;
+	width:100px;
+	color: #FF9400;
+	font-weight: bold;
+	font-size:16px;
+	FONT-FAMILY: "黑体";
+	height:24px;
+	padding-bottom:3px;
+}
+.showListTitle4
+{
+	background: #FFFFFF url(images/index1_r17_c50.gif) no-repeat left bottom;
+	width:55px;
+	height:24px;
+}
+
+.showListTitle3
+{
+	background: #FFFFFF url(images/showListTitle3.JPG) repeat-x left bottom;
+	height:24px;
+}
+
+.showListBottom
+{
+	padding-top:0px;
+	margin-top:0px;
+	background: #FFFFFF url(images/main_31.jpg) no-repeat left bottom;
+	width:100%;
+	height:14px;
+	line-height:14px;
+}
+
+.style1 
+{
+	color: #FFFFFF
+}
+.style2 {
+    color: #FF0000;
+	font-weight: bold;
+}
+.style3 {
+	color: #FF9900;
+	font-weight: bold;
+}
+.style4 {
+	color: #0041A0;
+	font-weight: bold;
+}
+.style5 {
+	color: #666666;
+	font-weight: bold;
+}
+.style6 {
+	color: #666666;
+	font-weight: bold;
+}
+
+#bdmz{
+	text-align:left;
+	text-indent:12px;
+	font-weight: bold;
+	font-size: 14px;
+	color: #990000;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #999999;
+	margin-top: 20px;
+	line-height: 40px;
+	vertical-align: 80%;
+}
+#bdmz a:link{
+	TEXT-DECORATION: none;
+}
+	
+.line td{
+	BORDER-BOTTOM: #a0a0a0 1px dashed;
+}
+
+.title{
+	font-weight: bold;
+	font-size: 16px;
+	color: #F74602;
+	background-color:#FFFFFF;
+}
+
+.detailContent{
+	height: 96%;
+	width: 96%;
+}
+.detailContent a:link{
+	text-decoration: none;
+}
+.detailContent td{
+	line-height: 26px;
+	border-bottom-width: 0px;
+	border-bottom-style: dashed;
+	border-bottom-color: #999999;
+}
+.detailContent1{
+	height: 96%;
+	width: 96%;
+}
+
+.detailContent1 td{
+	line-height: 20px;
+	border-bottom-width: 0px;
+	border-bottom-style: dashed;
+	border-bottom-color: #999999;
+}
+
+.wznr{
+margin-top:15px;
+text-indent:20px;
+}
+
+/*文字绕拍方式*/
+div.image-left {
+float: left;
+margin: 6px 6px 0 0;
+}
+
+div.image-left img {
+border: 1px solid #ccc;
+padding: 4px;
+}
+
+div.image-left p {
+color: #666;
+font-family: 'Lucida Grande', Lucida Sans Unicode;
+font-size: 9px ;
+margin: 3px 0 0; 
+text-align:center;
+}
+
+.topTitle a:link{ FONT-SIZE: 16px;color:#FF0000; text-decoration:none;font-weight:bold;}
+.topTitle a:visited{FONT-SIZE: 16px;color:#FF0000; text-decoration:none;font-weight:bold;}
+.topTitle a:hover{FONT-SIZE: 16px;color:#FF0000;text-decoration: underline;font-weight:bold;}
+.topTitle a:active{FONT-SIZE: 16px;color:#FF9400; text-decoration:none;font-weight:bold;}
+
+.topContent a:link{ FONT-SIZE: 12px;color:#000000; text-decoration:none;}
+.topContent a:visited{FONT-SIZE: 12px;color:#000000; text-decoration:none;}
+.topContent a:hover{FONT-SIZE: 12px;color:#FF0000;text-decoration: underline;}
+.topContent a:active{FONT-SIZE: 12px;color:#000000; text-decoration:none;}

@@ -1,0 +1,62 @@
+.keee {
+	BORDER-RIGHT: #ced7ef 1px solid; BORDER-TOP: #ced7ef 1px solid; BORDER-LEFT: #ced7ef 1px solid; BORDER-BOTTOM: #ced7ef 1px solid
+}
+.S_blue {
+	COLOR: #183984
+}
+.blue {
+	COLOR: #183984
+}
+.red {
+	COLOR: red; FONT-FAMILY: Tahoma
+}
+.yellow {
+	FONT-SIZE: 12px; COLOR: #d64500
+}
+.detailTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 20px; COLOR: #00005a
+}
+
+.font_14 {
+	FONT-SIZE: 14px; COLOR: #000000; TEXT-INDENT: 24px; LINE-HEIGHT: 24px
+}
+.line_x {
+	BORDER-TOP: #999999 1px dashed; BORDER-BOTTOM: #999999 1px dashed
+}
+.white {
+	COLOR: white
+}
+A.white:hover {
+	FONT-WEIGHT: bold; COLOR: #c5e6ff; TEXT-DECORATION: none
+}
+.gray {
+	COLOR: #686c73; FONT-FAMILY: Tahoma
+}
+.Div_b {
+	MARGIN-TOP: -11px; PADDING-LEFT: 6px; POSITION: absolute
+}
+.tabBg
+{
+	background-image:url(images/kxy_68.gif);
+	background-repeat:repeat-x;
+}
+.tabBgLeft
+{
+	background-image:url(images/kxy_66.gif);
+	background-repeat:no-repeat;
+}
+.tabBgMiddle
+{
+	background-image:url(images/kxy_67.gif);
+	background-repeat:no-repeat;
+}
+.tabBgRight
+{
+	background-image:url(images/kxy_70.gif);
+	background-repeat:no-repeat;
+}
+
+a img
+{
+	border:0px;
+}
